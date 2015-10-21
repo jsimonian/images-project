@@ -1,2 +1,2 @@
 # images-project
-Project code for Intro CS Decal
+First project code for Intro CS Decal
